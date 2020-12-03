@@ -1,5 +1,5 @@
 class Dog
-  def instance(name)
+  def instance
     @name = name
     @breed = breed
   end
